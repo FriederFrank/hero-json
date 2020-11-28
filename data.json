@@ -1,32 +1,67 @@
 {
-    "heroParts" : [
+    "heroParts": [
         {
-            "part": "kopf",
-             "bilder": [
-                "../Typescript/kopf/kopf-1.png",
-                "../Typescript/kopf/kopf-2.png",
-                "../Typescript/kopf/kopf-3.png",
-                "../Typescript/kopf/kopf-4.png" 
-             ] 
+            "heroPart": "kopf",
+            "images": [
+                {
+                    "id": 1,
+                    "link": "../Typescript/kopf/kopf-1.png"
+                },
+                {
+                    "id": 2,
+                    "link": "../Typescript/kopf/kopf-2.png"
+                },
+                {
+                    "id": 3,
+                    "link": "../Typescript/kopf/kopf-3.png"
+                },
+                {
+                    "id": 4,
+                    "link": "../Typescript/kopf/kopf-4.png"
+                }
+            ]
         },
         {
-            "part": "koerper",
-             "bilder": [
-                "../Typescript/koerper/koerper-1.png",
-                "../Typescript/koerper/koerper-2.png",
-                "../Typescript/koerper/koerper-3.png",
-                "../Typescript/koerper/koerper-4.png"
-             ] 
+            "heroPart": "koerper",
+            "images": [
+                {
+                    "id": 1,
+                    "link": "../Typescript/koerper/koerper-1.png"
+                },
+                {
+                    "id": 2,
+                    "link": "../Typescript/koerper/koerper-2.png"
+                },
+                {
+                    "id": 3,
+                    "link": "../Typescript/koerper/koerper-3.png"
+                },
+                {
+                    "id": 4,
+                    "link": "../Typescript/koerper/koerper-4.png"
+                }
+            ]
         },
         {
-            "part": "beine",
-             "bilder": [
-                "../Typescript/beine/beine-1.png",
-                "../Typescript/beine/beine-2.png",
-                "../Typescript/beine/beine-3.png",
-                "../Typescript/beine/beine-4.png" 
-             ] 
+            "heroPart": "beine",
+            "images": [
+                {
+                    "id": 1,
+                    "link": "../Typescript/beine/beine-1.png"
+                },
+                {
+                    "id": 2,
+                    "link": "../Typescript/beine/beine-2.png"
+                },
+                {
+                    "id": 3,
+                    "link": "../Typescript/beine/beine-3.png"
+                },
+                {
+                    "id": 4,
+                    "link": "../Typescript/beine/beine-4.png"
+                }
+            ]
         }
-
     ]
 }
