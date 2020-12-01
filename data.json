@@ -1,7 +1,7 @@
 {
     "heroParts": [
         {
-            "heroPart": "kopf",
+            "heroPart1": "kopf",
             "images": [
                 {
                     "id": 1,
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "heroPart": "koerper",
+            "heroPart2": "koerper",
             "images": [
                 {
                     "id": 1,
@@ -43,7 +43,7 @@
             ]
         },
         {
-            "heroPart": "beine",
+            "heroPart3": "beine",
             "images": [
                 {
                     "id": 1,
